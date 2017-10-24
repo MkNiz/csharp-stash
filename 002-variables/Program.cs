@@ -22,6 +22,22 @@ namespace _002_variables
             long var3 = -9999999999999999;
             Console.WriteLine("var3: " + var3);
 
+            // byte - very small unsigned integer between 0 and 255
+            byte var4 = 99;
+            Console.WriteLine("var4: " + var4);
+
+            // ushort - small unsigned integer between 0 and 65,535
+            ushort var5 = 9999;
+            Console.WriteLine("var5: " + var5);
+
+            // uint - medium unsigned integer between 0 and 4,294,967,295
+            uint var6 = 999999999;
+            Console.WriteLine("var6: " + var6);
+
+            // ulong - large unsigned integer between 0 and 18,446,744,073,709,551,615
+            ulong var7 = 9999999999999999999;
+            Console.WriteLine("var7: " + var7);
+
             Console.ReadKey();
         }
     }
