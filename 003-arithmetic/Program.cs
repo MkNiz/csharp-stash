@@ -28,6 +28,9 @@ namespace _003_arithmetic
             // Unary Negation
             Console.WriteLine("-(-5) = " + (-(-5)));
 
+            // Order of Operations
+            Console.WriteLine("7 * (7 + 5) - 5 = " + (7 * (7 + 5) - 5));
+
             Console.ReadKey();
         }
     }
