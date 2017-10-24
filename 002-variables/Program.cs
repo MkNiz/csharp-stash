@@ -50,6 +50,18 @@ namespace _002_variables
             decimal var10 = 0.000000999M;
             Console.WriteLine("var10: " + var10);
 
+            // char - a single character/letter
+            char var11 = 'x';
+            Console.WriteLine("var11: " + var11);
+
+            // string - a sequence of numbers, letters, and/or symbols
+            string var12 = "I like apples";
+            Console.WriteLine("var12: " + var12);
+
+            // bool - a value that can only be true or false
+            bool var13 = true;
+            Console.WriteLine("var13: " + var13);
+
             Console.ReadKey();
         }
     }
