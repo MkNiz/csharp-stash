@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-hello-world", "001-hell
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-variables", "002-variables\002-variables.csproj", "{3217A168-FA05-4B5F-8142-FF950A14A097}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-arithmetic", "003-arithmetic\003-arithmetic.csproj", "{5AA51A89-873A-4B63-A3DE-AC000E0AE568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{3217A168-FA05-4B5F-8142-FF950A14A097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3217A168-FA05-4B5F-8142-FF950A14A097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3217A168-FA05-4B5F-8142-FF950A14A097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA51A89-873A-4B63-A3DE-AC000E0AE568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA51A89-873A-4B63-A3DE-AC000E0AE568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA51A89-873A-4B63-A3DE-AC000E0AE568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA51A89-873A-4B63-A3DE-AC000E0AE568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
