@@ -38,6 +38,18 @@ namespace _002_variables
             ulong var7 = 9999999999999999999;
             Console.WriteLine("var7: " + var7);
 
+            // float - small real number w/ 7 digits of accuracy
+            float var8 = 9.9f;
+            Console.WriteLine("var8: " + var8);
+
+            // double - large real number w/ 15-16 digits of accuracy
+            double var9 = 0.00000000999;
+            Console.WriteLine("var9: " + var9);
+
+            // decimal - real number w/ smaller range but higher (28 to 29 digits) accuracy than double
+            decimal var10 = 0.000000999M;
+            Console.WriteLine("var10: " + var10);
+
             Console.ReadKey();
         }
     }
