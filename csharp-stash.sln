@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-int-float-division", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008-typecasting", "008-typecasting\008-typecasting.csproj", "{60F37119-C818-491A-A413-30AA85DC3ECD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009-special-numbers", "009-special-numbers\009-special-numbers.csproj", "{A72D885A-0E34-48B0-9FC5-6B75EB3F0478}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{60F37119-C818-491A-A413-30AA85DC3ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60F37119-C818-491A-A413-30AA85DC3ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60F37119-C818-491A-A413-30AA85DC3ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72D885A-0E34-48B0-9FC5-6B75EB3F0478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72D885A-0E34-48B0-9FC5-6B75EB3F0478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72D885A-0E34-48B0-9FC5-6B75EB3F0478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72D885A-0E34-48B0-9FC5-6B75EB3F0478}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
