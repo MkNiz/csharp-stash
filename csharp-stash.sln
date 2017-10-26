@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009-special-numbers", "009-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-overflow-underflow", "010-overflow-underflow\010-overflow-underflow.csproj", "{920180D5-6116-4FA2-8519-B9ED7CB3F556}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011-increment-decrement", "011-increment-decrement\011-increment-decrement.csproj", "{C8AAE0C2-3903-45DD-A297-12F37AF72FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{920180D5-6116-4FA2-8519-B9ED7CB3F556}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{920180D5-6116-4FA2-8519-B9ED7CB3F556}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{920180D5-6116-4FA2-8519-B9ED7CB3F556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AAE0C2-3903-45DD-A297-12F37AF72FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AAE0C2-3903-45DD-A297-12F37AF72FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AAE0C2-3903-45DD-A297-12F37AF72FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AAE0C2-3903-45DD-A297-12F37AF72FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
