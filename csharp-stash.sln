@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012-if", "012-if\012-if.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013-relational-operators", "013-relational-operators\013-relational-operators.csproj", "{308D43B7-7982-4BF6-9C2D-E9180FE8C4C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014-negation", "014-negation\014-negation.csproj", "{7803CD5B-4039-407F-AB41-656ABC4703B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{308D43B7-7982-4BF6-9C2D-E9180FE8C4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{308D43B7-7982-4BF6-9C2D-E9180FE8C4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{308D43B7-7982-4BF6-9C2D-E9180FE8C4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7803CD5B-4039-407F-AB41-656ABC4703B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7803CD5B-4039-407F-AB41-656ABC4703B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7803CD5B-4039-407F-AB41-656ABC4703B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7803CD5B-4039-407F-AB41-656ABC4703B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
