@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018-do-while-loop", "018-do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019-for-loop-and-break", "019-for-loop-and-break\019-for-loop-and-break.csproj", "{4C1A9982-4CF7-4FED-B382-7370ACF05510}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020-loop-nesting", "020-loop-nesting\020-loop-nesting.csproj", "{B7FD25B8-8FC0-4D1C-B353-7D950B51BE8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{4C1A9982-4CF7-4FED-B382-7370ACF05510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C1A9982-4CF7-4FED-B382-7370ACF05510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C1A9982-4CF7-4FED-B382-7370ACF05510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FD25B8-8FC0-4D1C-B353-7D950B51BE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FD25B8-8FC0-4D1C-B353-7D950B51BE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FD25B8-8FC0-4D1C-B353-7D950B51BE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FD25B8-8FC0-4D1C-B353-7D950B51BE8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
