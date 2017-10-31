@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020-loop-nesting", "020-loo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021-arrays", "021-arrays\021-arrays.csproj", "{A6F1262D-A6B5-42EB-BBAC-C16F88C99D3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022-array-matrix", "022-array-matrix\022-array-matrix.csproj", "{B51A736D-854C-432A-AC6F-A84646D12650}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +142,10 @@ Global
 		{A6F1262D-A6B5-42EB-BBAC-C16F88C99D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F1262D-A6B5-42EB-BBAC-C16F88C99D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F1262D-A6B5-42EB-BBAC-C16F88C99D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51A736D-854C-432A-AC6F-A84646D12650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51A736D-854C-432A-AC6F-A84646D12650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51A736D-854C-432A-AC6F-A84646D12650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51A736D-854C-432A-AC6F-A84646D12650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
