@@ -66,6 +66,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028-class", "028-class\028-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029-properties", "029-properties\029-properties.csproj", "{E2210901-CB22-4CFF-A253-BD9425F4D273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030-struct", "030-struct\030-struct.csproj", "{CFBD4080-0CB2-461B-842C-022FDF30F7D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -188,6 +190,10 @@ Global
 		{E2210901-CB22-4CFF-A253-BD9425F4D273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2210901-CB22-4CFF-A253-BD9425F4D273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2210901-CB22-4CFF-A253-BD9425F4D273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBD4080-0CB2-461B-842C-022FDF30F7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBD4080-0CB2-461B-842C-022FDF30F7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBD4080-0CB2-461B-842C-022FDF30F7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBD4080-0CB2-461B-842C-022FDF30F7D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
