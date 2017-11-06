@@ -17,7 +17,7 @@ namespace _031_inheritance
 
         public new void battleCry()
         {
-            Console.WriteLine("I am " + name + " the " + heroClass + ", and you will fall before my mighty pinky!");
+            Console.WriteLine(name.ToUpper() + ": I am a " + heroClass + ", and you will fall before my mighty pinky!");
         }
     }
 }
