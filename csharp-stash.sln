@@ -72,6 +72,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031-inheritance", "031-inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032-derived-classes-in-arrays", "032-derived-classes-in-arrays\032-derived-classes-in-arrays.csproj", "{0351810F-18D4-4C29-8612-BE496F252FB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033-virtual-method", "033-virtual-method\033-virtual-method.csproj", "{D14768E0-67BC-47FA-A39D-923415956C3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -206,6 +208,10 @@ Global
 		{0351810F-18D4-4C29-8612-BE496F252FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0351810F-18D4-4C29-8612-BE496F252FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0351810F-18D4-4C29-8612-BE496F252FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14768E0-67BC-47FA-A39D-923415956C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14768E0-67BC-47FA-A39D-923415956C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14768E0-67BC-47FA-A39D-923415956C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14768E0-67BC-47FA-A39D-923415956C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
