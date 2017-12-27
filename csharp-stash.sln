@@ -76,6 +76,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033-virtual-method", "033-v
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "034-base", "034-base\034-base.csproj", "{8CB696ED-EC83-40D8-9A4A-3DA9B691EC77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "035-abstract-class", "035-abstract-class\035-abstract-class.csproj", "{5032AC12-2525-4398-9381-38632556B57D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -218,6 +220,10 @@ Global
 		{8CB696ED-EC83-40D8-9A4A-3DA9B691EC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB696ED-EC83-40D8-9A4A-3DA9B691EC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB696ED-EC83-40D8-9A4A-3DA9B691EC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5032AC12-2525-4398-9381-38632556B57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5032AC12-2525-4398-9381-38632556B57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5032AC12-2525-4398-9381-38632556B57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5032AC12-2525-4398-9381-38632556B57D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
