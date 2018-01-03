@@ -80,6 +80,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "035-abstract-class", "035-a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036-interface", "036-interface\036-interface.csproj", "{2AEFDCCF-E9F7-48AA-A13C-FAE3AFAF7682}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037-file-write", "037-file-write\037-file-write.csproj", "{4B412600-6E43-45D5-A450-0CC855F59CBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -230,6 +232,10 @@ Global
 		{2AEFDCCF-E9F7-48AA-A13C-FAE3AFAF7682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AEFDCCF-E9F7-48AA-A13C-FAE3AFAF7682}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AEFDCCF-E9F7-48AA-A13C-FAE3AFAF7682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B412600-6E43-45D5-A450-0CC855F59CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B412600-6E43-45D5-A450-0CC855F59CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B412600-6E43-45D5-A450-0CC855F59CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B412600-6E43-45D5-A450-0CC855F59CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
