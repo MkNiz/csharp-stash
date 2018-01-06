@@ -90,6 +90,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "040-file-binary", "040-file
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "041-generic-types-lists", "041-generic-types-lists\041-generic-types-lists.csproj", "{486CF19C-97B4-4FE3-A522-A072172C600C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "042-generic-types-dictionary", "042-generic-types-dictionary\042-generic-types-dictionary.csproj", "{1B8E0A7F-FB39-406D-9341-4A023744A46E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -260,6 +262,10 @@ Global
 		{486CF19C-97B4-4FE3-A522-A072172C600C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486CF19C-97B4-4FE3-A522-A072172C600C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486CF19C-97B4-4FE3-A522-A072172C600C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8E0A7F-FB39-406D-9341-4A023744A46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8E0A7F-FB39-406D-9341-4A023744A46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8E0A7F-FB39-406D-9341-4A023744A46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8E0A7F-FB39-406D-9341-4A023744A46E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
