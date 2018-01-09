@@ -104,6 +104,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047-custom-exception", "047
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048-delegate", "048-delegate\048-delegate.csproj", "{92CA9780-0A80-4695-ACBC-545AFE8DEFEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049-events", "049-events\049-events.csproj", "{20F71904-86E9-417A-A039-1CC42B227156}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -302,6 +304,10 @@ Global
 		{92CA9780-0A80-4695-ACBC-545AFE8DEFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92CA9780-0A80-4695-ACBC-545AFE8DEFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92CA9780-0A80-4695-ACBC-545AFE8DEFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F71904-86E9-417A-A039-1CC42B227156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F71904-86E9-417A-A039-1CC42B227156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F71904-86E9-417A-A039-1CC42B227156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F71904-86E9-417A-A039-1CC42B227156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
