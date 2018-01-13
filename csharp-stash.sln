@@ -106,6 +106,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048-delegate", "048-delegat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049-events", "049-events\049-events.csproj", "{20F71904-86E9-417A-A039-1CC42B227156}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050-threading", "050-threading\050-threading.csproj", "{FDBB797D-5D8A-4588-B08A-321BD7D1BED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -308,6 +310,10 @@ Global
 		{20F71904-86E9-417A-A039-1CC42B227156}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20F71904-86E9-417A-A039-1CC42B227156}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20F71904-86E9-417A-A039-1CC42B227156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBB797D-5D8A-4588-B08A-321BD7D1BED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBB797D-5D8A-4588-B08A-321BD7D1BED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBB797D-5D8A-4588-B08A-321BD7D1BED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBB797D-5D8A-4588-B08A-321BD7D1BED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
