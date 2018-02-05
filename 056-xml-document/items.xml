@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <consumable name="Potion" description="A normal potion" />
+  <weapon name="Sword" description="A nondescript sword" />
+  <weapon name="Excalipoor" description="A pale imitation of a legendary weapon" />
+  <shield name="Wooden Shield" description="A shield made from a tree" />
+</items>
