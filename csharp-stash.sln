@@ -116,6 +116,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "053-custom-conversions", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "054-extension-method", "054-extension-method\054-extension-method.csproj", "{101EA9D2-86A1-4F12-AA90-A01D166D17B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055-xml-reader", "055-xml-reader\055-xml-reader.csproj", "{E48093B3-0F45-4069-86EC-60A760DE1B97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -338,6 +340,10 @@ Global
 		{101EA9D2-86A1-4F12-AA90-A01D166D17B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{101EA9D2-86A1-4F12-AA90-A01D166D17B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{101EA9D2-86A1-4F12-AA90-A01D166D17B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48093B3-0F45-4069-86EC-60A760DE1B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48093B3-0F45-4069-86EC-60A760DE1B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48093B3-0F45-4069-86EC-60A760DE1B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48093B3-0F45-4069-86EC-60A760DE1B97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inventory limit="5" weightlimit="10">
+  <item name="Stick" description="It's...a stick." weight="1" />
+  <item name="Spellbook" description="Where mystical spells are stored." weight="5" />
+</inventory>
