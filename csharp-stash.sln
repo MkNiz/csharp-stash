@@ -134,6 +134,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062-sorting-4", "062-sortin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "063-querying-1", "063-querying-1\063-querying-1.csproj", "{C39F95E8-18A8-4F61-9016-6EC79DFE2C6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "064-querying-2", "064-querying-2\064-querying-2.csproj", "{B24515F3-84C6-49F1-9244-4D62C1B77AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -392,6 +394,10 @@ Global
 		{C39F95E8-18A8-4F61-9016-6EC79DFE2C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C39F95E8-18A8-4F61-9016-6EC79DFE2C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C39F95E8-18A8-4F61-9016-6EC79DFE2C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24515F3-84C6-49F1-9244-4D62C1B77AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24515F3-84C6-49F1-9244-4D62C1B77AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24515F3-84C6-49F1-9244-4D62C1B77AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24515F3-84C6-49F1-9244-4D62C1B77AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
