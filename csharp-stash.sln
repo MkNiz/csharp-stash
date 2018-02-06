@@ -126,6 +126,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058-xml-document-write", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "059-sorting-1", "059-sorting-1\059-sorting-1.csproj", "{BB5948EE-2E59-4432-AF93-B31A40D2E9DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "060-sorting-2", "060-sorting-2\060-sorting-2.csproj", "{3A31A072-CD88-4B42-9E1D-532A3EE08F3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -368,6 +370,10 @@ Global
 		{BB5948EE-2E59-4432-AF93-B31A40D2E9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB5948EE-2E59-4432-AF93-B31A40D2E9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB5948EE-2E59-4432-AF93-B31A40D2E9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A31A072-CD88-4B42-9E1D-532A3EE08F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A31A072-CD88-4B42-9E1D-532A3EE08F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A31A072-CD88-4B42-9E1D-532A3EE08F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A31A072-CD88-4B42-9E1D-532A3EE08F3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
