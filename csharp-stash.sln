@@ -130,6 +130,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "060-sorting-2", "060-sortin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061-sorting-3", "061-sorting-3\061-sorting-3.csproj", "{E0FA85B3-723B-4E0F-A3B5-353A6562945F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062-sorting-4", "062-sorting-4\062-sorting-4.csproj", "{3847188F-2F12-4FDA-AE7F-9040917913EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -380,6 +382,10 @@ Global
 		{E0FA85B3-723B-4E0F-A3B5-353A6562945F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0FA85B3-723B-4E0F-A3B5-353A6562945F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0FA85B3-723B-4E0F-A3B5-353A6562945F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3847188F-2F12-4FDA-AE7F-9040917913EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3847188F-2F12-4FDA-AE7F-9040917913EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3847188F-2F12-4FDA-AE7F-9040917913EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3847188F-2F12-4FDA-AE7F-9040917913EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
