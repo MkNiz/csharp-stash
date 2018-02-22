@@ -144,6 +144,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "067-data-absence", "067-dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "068-optional-parameters", "068-optional-parameters\068-optional-parameters.csproj", "{8FCFBECC-C1BD-4A1F-BEE9-BF11F5FD8679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "069-linq-query", "069-linq-query\069-linq-query.csproj", "{43D11CE6-6A96-4A05-8313-44D3CF1E9379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -422,6 +424,10 @@ Global
 		{8FCFBECC-C1BD-4A1F-BEE9-BF11F5FD8679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FCFBECC-C1BD-4A1F-BEE9-BF11F5FD8679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FCFBECC-C1BD-4A1F-BEE9-BF11F5FD8679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D11CE6-6A96-4A05-8313-44D3CF1E9379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D11CE6-6A96-4A05-8313-44D3CF1E9379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D11CE6-6A96-4A05-8313-44D3CF1E9379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D11CE6-6A96-4A05-8313-44D3CF1E9379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
